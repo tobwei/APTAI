@@ -12,7 +12,7 @@ CURRENTLY UNDER CONSTRUCTION.
 Please kindly cite our work if you find this repository useful:
 ```
 @article{Weise2024,
-  author    = {Weise, Tobias and Klumpp, Peter and Demir, Koray C. and Pérez-Toro, Paola A. and Schuster, Martina and Noeth, Elmar and Heismann, Boris and Maier, Andreas and Yang, Shih-Hau},
+  author    = {Weise, Tobias and Klumpp, Philipp and Demir, Kubilay Can and P{\'e}rez-Toro, Paula Andrea and Schuster, Maria and Noeth, Elmar and Heismann, Bjoern and Maier, Andreas and Yang, Seung Hee},
   title     = {Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech},
   journal   = {Proceedings of Interspeech 2024},
   year      = {2024},
