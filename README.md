@@ -6,5 +6,5 @@ Official repository for the Interspeech2024 paper:
 CURRENTLY UNDER CONSTRUCTION.
   - Preliminary code
   - Still requires refactoring (will be done after another paper is published)
-  - Files are sorted in directories only for organizational purposes (paths are broken this way, required to be all in the same path)
+  - Files are organized into directories solely for better structure, but this arrangement disrupts paths, requiring all files to be in the same directory
   - If you have any questions, reach out!
