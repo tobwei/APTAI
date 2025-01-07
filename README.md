@@ -1,5 +1,5 @@
 # APTAI
-Official repository for Interspeech2024 submission. Contains f-APTAI and APTAI.
+Official repository for the Interspeech2024 paper: "Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech" (https://www.isca-archive.org/interspeech_2024/weise24_interspeech.html)
 
 CURRENTLY UNDER CONSTRUCTION.
   - Preliminary code
